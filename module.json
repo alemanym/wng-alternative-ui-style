@@ -1,0 +1,29 @@
+{
+  "id": "wng-alternative-ui-style",
+  "title": "[UI] Wrath & Glory - Alternative Style",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "wng-core",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "wrath-and-glory",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "styles": [
+    "styles.css"
+  ],
+  "description": "Change some windows and sidebar look &amp; feel."
+}
