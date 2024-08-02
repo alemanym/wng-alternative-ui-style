@@ -23,7 +23,7 @@
     ]
   },
   "styles": [
-    "styles.css"
+    "styles/wng-alternative-styles.css"
   ],
   "description": "Change some windows and sidebar look &amp; feel."
 }
