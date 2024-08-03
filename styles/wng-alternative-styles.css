@@ -265,9 +265,9 @@ button:hover {
     text-shadow: 0 2px 2px black;
 }
 .wrath-and-glory.sheet .sheet-tabs .item:hover {
-    color: teal !important;
+    color: #0c3f3f !important;
     text-shadow: none !important;
-	background: none !important;
+    background: black !important;
 }
 .wrath-and-glory.sheet.actor .wrapper button {
     background: radial-gradient(#5b0808, #290202);
